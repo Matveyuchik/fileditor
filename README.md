@@ -8,5 +8,5 @@ gcc -c fileditor.c -o fileditor
 
 # usage
 ```bash
-fileditor <filename>
+fileditor <mode (w/d)> <filename>
 ```
